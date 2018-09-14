@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Antonio: I am here!");
         System.out.println("Andrew is here.");
 	System.out.println("Alan: I'm here.");
+	System.out.println("Eric is here");
     }
 }
