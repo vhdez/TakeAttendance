@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Mr. Hernandez: Who's here on Friday");
         System.out.println("Antonio: I am here!");
         System.out.println("Andrew is here.");
+	System.out.println("Alan: I'm here.");
     }
 }
