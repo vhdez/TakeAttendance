@@ -11,6 +11,6 @@ public class Main {
 	    System.out.println("Eric is here");
         System.out.println("Paxton Wentzell: I'm here!!");
         System.out.println("Chloe is here!");
-        System.out.println("Ma. Val is here!!!");
+        System.out.println("Ma. Val is here!");
     }
 }
